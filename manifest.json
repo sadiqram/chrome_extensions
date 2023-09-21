@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Upcoming NBA Games",
+    "version": "1.0.0",
+    "description": "Displays Upcoming NBA Games",
+    "author": "Sadiq Ramanu",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upcoming NBA Games",
+        "default_icon": {
+            "16": "images/basketball-icon.png",
+            "48": "images/Misc-Games-icon.png"
+        }
+    }
+}
